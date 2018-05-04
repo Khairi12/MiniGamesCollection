@@ -1,0 +1,13 @@
+name: Minigames
+main: ki.aerisicher.Minigames.Main
+version: 1.0.0
+author: aeri sichers
+description: mini games test plugin
+
+commands:
+    join:
+        description: join an active event
+        usage: /join
+    leave:
+        description: leave the current event
+        usage: /leave
